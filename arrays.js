@@ -44,4 +44,5 @@ function destructivelyRemoveElementFromEndOfArray(array1) {
 
 function removeElementFromEndOfArray(array2) {
   array2.slice(0, 3)
+  return array2
 }
