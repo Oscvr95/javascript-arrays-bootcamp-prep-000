@@ -34,6 +34,5 @@ function destructivelyRemoveElementFromBeginningOfArray(array1) {
 }
 
 function removeElementFromBeginningOfArray(array2) {
-  array2.slice(1)
-  array2 = array2.slice(1)
+  return array2 = array2.slice(1)
 }
