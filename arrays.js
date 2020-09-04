@@ -42,4 +42,3 @@ function destructivelyRemoveElementFromEndOfArray(array1) {
   return array1
 }
 
-function removeElementFromEndOfArray(array1)
