@@ -41,3 +41,7 @@ function destructivelyRemoveElementFromEndOfArray(array1) {
   array1.pop()
   return array1
 }
+
+function removeElementFromEndOfArray(array2) {
+  array2 = array2.slice(0, 3)
+}
